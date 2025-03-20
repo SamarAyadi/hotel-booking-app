@@ -39,8 +39,8 @@ export const TRENDING_DESTINATIONS = [
     className: 'sm:col-span-3 sm:col-start-4 col-span-full',
   },
   {
-    title: 'Djerba',
-    image: 'djerba.jpg',
+    title: 'Tabarka',
+    image: 'tabarka.jpg',
     className: 'md:col-span-2 md:col-start-1 col-span-full',
   },
   {
